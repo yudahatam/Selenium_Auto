@@ -1,4 +1,4 @@
-# Selenium_Auto
+# Selenium Automation
 Author Yuda Hatam.
 
 This project run automation on chrome for entry to college website and scrapping information.
