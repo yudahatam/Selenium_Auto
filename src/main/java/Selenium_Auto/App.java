@@ -22,9 +22,7 @@ public class App {
         String username = input.nextLine();
         System.out.println("Thank you! \nNow please enter your password");
         String password = input.nextLine();
-        /**
-         * String username = "kettiy"; String password = "230695Ki";
-         */
+        
 
         // Enter chrome driver
         WebDriver driver = new ChromeDriver();
